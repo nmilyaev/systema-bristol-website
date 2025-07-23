@@ -11184,8 +11184,7 @@ nav.page-navbar.affix .navbar-brand .text-dark {
   text-align: center;
   color: white;
   position: relative;
-  height: 598px;
-  position: relative;
+  min-height: 40%;
 }
 
 .header .overlay {
